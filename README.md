@@ -8,6 +8,12 @@ A collection of open source environmental data. The mission of this project is t
 - Evidence for environmental protection measures
 - Youth education
 
+# Sources
+https://www.worldclim.org/
+https://data.worldbank.org/topic/environment
+https://edg.epa.gov/metadata/catalog/main/home.page
+https://www.nature.com/sdata/policies/repositories
+
 # Dedication
 For his titanic contribution to understanding the relationship between humankind and nature, and for the vivifying breath of imagination with which he detailed the global forces of this planet, in which each detail is like a thread in the tapestry of the natural world, I dedicate this project to the memory of Alexander von Humboldt.
 
