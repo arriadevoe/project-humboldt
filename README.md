@@ -4,6 +4,9 @@ Project Humboldt
 A growing collection of open source environmental data and projects. The core mission of this project is to unify modern technology and radical environmental conservation to prevent human-induced biodiversity loss.
 
 # Expedition Peru
+- Ecotourism = protection
+- Identification of valuable species = protection
+  
 https://www.amazonconservation.org/amazontec2020/
 http://www.acca.org.pe/visite-nuestras-estaciones/investigadores/
 https://fieldstudies.org/centers/peru/
