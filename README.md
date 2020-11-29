@@ -2,8 +2,15 @@ Project Humboldt
 =============
 A visual journey through the travels of Alexander von Humboldt. 
 
-# Resources
+# Architecture
+## Chosen
 
+## Possible
+https://geojson.org/
+https://github.com/chrisrzhou/react-globe
+
+
+# Resources
 ### Open Data
 https://www.kaggle.com/tags/environment
 https://www.worldclim.org/
