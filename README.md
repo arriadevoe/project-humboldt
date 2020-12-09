@@ -3,12 +3,9 @@ Project Humboldt
 A visual journey through the travels of Alexander von Humboldt. 
 
 # Architecture
-## Chosen
-
-## Possible
-https://geojson.org/
-https://github.com/chrisrzhou/react-globe
-
+[Next.js](https://nextjs.org/)
+[npm trends for React map libraries](https://www.npmtrends.com/react-map-gl-vs-google-map-react-vs-react-mapbox-gl-vs-react-leaflet-vs-@terrestris/react-geo-vs-pigeon-maps)
+[React map library comparison](https://blog.logrocket.com/react-map-library-comparison/)
 
 # Resources
 ### Open Data
@@ -18,13 +15,6 @@ https://data.worldbank.org/topic/environment
 https://edg.epa.gov/metadata/catalog/main/home.page
 https://www.nature.com/sdata/policies/repositories
 
-### Amazon Conservation in Peru
-
-https://www.amazonconservation.org/amazontec2020/
-http://www.acca.org.pe/visite-nuestras-estaciones/investigadores/
-https://fieldstudies.org/centers/peru/
-https://rainforests.mongabay.com/amazon/
-https://conservetheamazon.org/peruvian-amazon-researchers/researcher-facilities-services/
 
 # Dedication
 For the vivifying breath of imagination with which he shared this planet with us, I dedicate this project to the memory of Alexander von Humboldt.
